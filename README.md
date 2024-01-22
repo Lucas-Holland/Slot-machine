@@ -1,2 +1,3 @@
-# Repositorio principal para testes
- Teste para edicao direto do site da github
+CAÇA-NÍQUEL S
+
+Caca-niquel simples, com sistema de facilitar a vitoria do jogador se perder consecutivamente.
