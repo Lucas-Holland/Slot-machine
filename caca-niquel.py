@@ -56,7 +56,7 @@ porcentagemE(IE, 15)
 porcentagemF(IF, 20)
 
 
-    # UNI AS LETRAS SEM ESPACOS PARA FAZER A ESCOLHA
+    # UNIR AS LETRAS SEM ESPACOS PARA FAZER A ESCOLHA
 
 def uni(letra):
     for i in letra:
@@ -295,7 +295,4 @@ while True:
         break
     print("\n"
           " Sua carteira ainda contém ", dinheiro, "moedas.")
-
-
-
 
