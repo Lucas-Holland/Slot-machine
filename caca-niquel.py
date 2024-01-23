@@ -139,21 +139,7 @@ while True:
 
         while c < 3:
             p = random.choice(escolhaa)
-            if c == 0:
-                final.append(p)
-
-            if c == 1 and p != final[0]:
-                final.append(p)
-
-            if c == 1 and p == final[0]:
-                final.append(p)
-
-            if c == 2 and p != final[1]:
-                final.append(p)
-
-            if c == 2 and p == final[1]:
-                final.append(p)
-
+            final.append(p)
             c += 1
 
         print("")
